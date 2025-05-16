@@ -24,8 +24,8 @@
 Clone & Install
 
 ```sh
-git clone git@github.com:Mystery-Oh/stormwind.git
-cd stormwind
+git clone git@github.com:Mystery-Oh/da_design_server.git
+cd da_design_server
 pip3 install -r requirements.txt
 ```
 Append a python path to '~./bashrc' file.
